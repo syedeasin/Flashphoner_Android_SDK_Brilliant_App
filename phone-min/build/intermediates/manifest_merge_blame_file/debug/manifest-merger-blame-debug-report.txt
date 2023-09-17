@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.flashphoner.wcsexample.phone_min"
+4    android:versionCode="2600001"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:4:5-60
+11-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:4:19-57
+12    <uses-feature android:name="android.hardware.camera.autofocus" />
+12-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:5:5-70
+12-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:5:19-67
+13    <uses-feature
+13-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:6:5-78
+14        android:glEsVersion="0x00020000"
+14-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:6:19-51
+15        android:required="true" />
+15-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:6:52-75
+16
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:8:5-65
+17-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:8:22-62
+18    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+18-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:9:5-79
+18-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:9:22-76
+19    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+19-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:10:5-80
+19-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:10:22-77
+20    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+20-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:11:5-71
+20-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:11:22-68
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:12:5-67
+21-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:12:22-64
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:13:5-81
+22-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:13:22-78
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:14:5-79
+23-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:14:22-76
+24
+25    <application
+25-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:16:5-33:19
+26        android:allowBackup="true"
+26-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:17:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/ce0e3955c7b24bd3ee1037a5d16fb827/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:icon="@mipmap/ic_launcher"
+30-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:18:9-43
+31        android:label="@string/app_name"
+31-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:19:9-41
+32        android:supportsRtl="true"
+32-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:20:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:21:9-40
+35        <activity
+35-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:22:9-32:20
+36            android:name="com.flashphoner.wcsexample.phone_min.PhoneMinActivity"
+36-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:23:13-45
+37            android:configChanges="orientation|screenSize"
+37-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:25:13-59
+38            android:exported="true"
+38-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:26:13-36
+39            android:label="@string/app_name" >
+39-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:24:13-45
+40            <intent-filter>
+40-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:27:13-31:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:28:17-69
+41-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:28:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:30:17-77
+43-->/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min/src/main/AndroidManifest.xml:30:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+49            android:authorities="com.flashphoner.wcsexample.phone_min.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f7ce5095a8f6e56c3471ca54a7de546b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/688dfa041ffcf8d83d0338aa3ea82e21/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/688dfa041ffcf8d83d0338aa3ea82e21/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/688dfa041ffcf8d83d0338aa3ea82e21/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>

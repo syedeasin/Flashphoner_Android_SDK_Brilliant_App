@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/2players" />
+            <option value="$PROJECT_DIR$/2sessions" />
+            <option value="$PROJECT_DIR$/camera-manager" />
+            <option value="$PROJECT_DIR$/click-to-call" />
+            <option value="$PROJECT_DIR$/conference" />
+            <option value="$PROJECT_DIR$/gpu-image" />
+            <option value="$PROJECT_DIR$/mcu-client" />
+            <option value="$PROJECT_DIR$/media-devices" />
+            <option value="$PROJECT_DIR$/phone-min" />
+            <option value="$PROJECT_DIR$/phone-min-video" />
+            <option value="$PROJECT_DIR$/player" />
+            <option value="$PROJECT_DIR$/screen-sharing" />
+            <option value="$PROJECT_DIR$/stream-recording" />
+            <option value="$PROJECT_DIR$/streamer" />
+            <option value="$PROJECT_DIR$/streaming-min" />
+            <option value="$PROJECT_DIR$/video-chat" />
+            <option value="$PROJECT_DIR$/webview-example" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

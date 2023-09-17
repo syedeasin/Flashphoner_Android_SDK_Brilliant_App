@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Media Devices</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_wcs_url">WCS Url</string>
+    <string name="prompt_microphone">Microphone</string>
+    <string name="prompt_camera">Camera</string>
+    <string name="prompt_codec">Disable codec</string>
+    <string name="prompt_camera_fps">FPS</string>
+    <string name="prompt_camera_width">Width</string>
+    <string name="prompt_camera_height">Height</string>
+    <string name="prompt_play_width">Play Width</string>
+    <string name="prompt_play_height">Play Height</string>
+    <string name="prompt_play_bitrate">Play Bitrate (kbps)</string>
+    <string name="prompt_play_quality">Play Quality</string>
+    <string name="action_test">Test</string>
+    <string name="action_release">Release</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_switch_camera">Switch Camera</string>
+    <string name="turn_on_flashlight">Turn on flashlight</string>
+    <string name="turn_off_flashlight">Turn off flashlight</string>
+    <string name="action_switch_renderer">Switch Renderer</string>
+    <string name="wcs_url">wss://demo.flashphoner.com:8443</string>
+    <string name="camera_fps">25</string>
+    <string name="camera_width">640</string>
+    <string name="camera_height">480</string>
+    <string name="receive_audio">Receive Audio</string>
+    <string name="receive_video">Receive Video</string>
+    <string name="mute_audio">Mute Audio</string>
+    <string name="mute_video">Mute Video</string>
+    <string name="play_quality">0</string>
+    <string name="resolution_default">Resolution (default)</string>
+    <string name="bitrate_default">Bitrate (default)</string>
+    <string name="quality_default">Quality (default)</string>
+    <string name="publish_bitrate">0</string>
+    <string name="play_bitrate">0</string>
+    <string name="prompt_publish_current_bitrate">Publish Current Bitrate</string>
+    <string name="prompt_publish_min_bitrate">Publish Min Bitrate</string>
+    <string name="prompt_publish_max_bitrate">Publish Max Bitrate</string>
+    <string name="send_audio">Send Audio</string>
+    <string name="send_video">Send Video</string>
+    <string name="use_fec">FEC</string>
+    <string name="use_stereo">Stereo</string>
+    <string name="prompt_publish_audio_bitrate">Publish Bitrate</string>
+    <string name="publish_audio_bitrate">0</string>
+    <string name="prompt_stream_name">Stream name</string>
+    <string name="stream_name">test</string>
+    <string name="upload_quality">Upload quality:&#160;</string>
+    <string name="download_quality">Download quality:&#160;</string>
+    <string name="unknown">UNKNOWN</string>
+    <string name="prompt_transport">Transport</string>
+    <string name="audio_mute_status">Audio muted: </string>
+    <string name="video_mute_status">Video muted: </string>
+    <string name="muted_name">Stream name: </string>
+    <string name="action_publish">Publish</string>
+    <string name="action_play">Play</string>
+    <string name="action_unpublish">Unpublish</string>
+    <string name="action_stop_play">Stop play</string>
+    <string-array name="audio_output">
+        <item>speakerphone</item>
+        <item>phone</item>
+        <item>bluetooth</item>
+    </string-array>
+    <string-array name="transport">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="camera_capturer">
+        <item>flashlight</item>
+        <item>camera1capturer</item>
+        <item>camera2capturer</item>
+        <item>custom</item>
+    </string-array>
+
+</resources>

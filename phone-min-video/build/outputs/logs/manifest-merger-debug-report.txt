@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/38dc562db4e01d397107d77b619bb730/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/syedeasin/.gradle/caches/transforms-3/5983dbee309db77c468cf731f8de99ed/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/72b3ef631cd8c400636e580bc628f4a4/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/20de619f5bc7918f58cec667db409a71/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/syedeasin/.gradle/caches/transforms-3/df6a4a883e472eb36bde8b7afaa5dae7/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/syedeasin/.gradle/caches/transforms-3/a5b0c708b4fff25c47abff6572d06545/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/0a0a5c9e925e023474f8cdd20d1580ee/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/3c0c733d78755d6acb80a0b8f4595d10/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/38eb26c9040e1c4e198ddffab8b4ccf7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/3bbd73e050926a9f0c56fb86a3a55c34/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/5bddc4a76e8f55b99a7679fb57f250e5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/syedeasin/.gradle/caches/transforms-3/b127448119742c61a1f36ef14bba5008/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/7f3d20d23b10d4001fb53c97eee883db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/55d1f85bf739e6d4094b9bbd1c425bed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/84db9b483d4b1bb81f3c602d2a6c528d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/4188fb572eb088970e77ec0f0dcb066a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/87b0e0b67f83482960ef657ff3ee26f7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/9be9420a2119134c5c7cc8959d8ae3c8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/423f6a4889e3d11201f804fbcc390a1e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/16286b92e2fd187d100ad97e45a47394/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f220559f3657700ef7e17a6d3eae413d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/85a5fcffb3ad4dd63efcafd558b83470/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/76336503354a801bb214304e371a55c2/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/4928b62cec54cd1c6257fa7d7d971ea6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/6a543a949dd5c59723679de012bdbdbf/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/syedeasin/.gradle/caches/transforms-3/d14e0bab219894a890c0748ad6930487/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/137f6c50bfb26d4de7825e2ea38a8541/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/syedeasin/.gradle/caches/transforms-3/36040533fbcb3d40ce55e86e96f59d69/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/3dc8cb490f4b471a3446e1d8f3e49fb7/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/44a857b39a07f29d3594f5ee2f6d158a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/syedeasin/.gradle/caches/transforms-3/1a83714c4d141df985550f2498369a54/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/e1ecb16427e8a16d40a1f282b12e164a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/d0e36ffc95f6423b2dbbf063bb224ec8/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/94bf9267eb166226b49211f1ccbc2c45/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/9381cc0ea93639691adf26967da6156f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/b12443eb6197e65b122b9fb12888d33f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:4:5-60
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:9:5-60
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:4:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:5:5-70
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:10:5-70
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:5:19-67
+uses-feature#0x00020000
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:11:5-13:35
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:6:52-75
+uses-permission#android.permission.CAMERA
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:8:5-65
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:15:5-65
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:16:5-79
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:10:5-80
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:17:5-80
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:11:5-71
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:18:5-71
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:19:5-67
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:13:5-81
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:20:5-81
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:21:5-79
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:14:22-76
+application
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:16:5-33:19
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:16:5-33:19
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:23:5-27:19
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.material:material:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/38dc562db4e01d397107d77b619bb730/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/38dc562db4e01d397107d77b619bb730/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/syedeasin/.gradle/caches/transforms-3/5983dbee309db77c468cf731f8de99ed/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/syedeasin/.gradle/caches/transforms-3/5983dbee309db77c468cf731f8de99ed/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/16286b92e2fd187d100ad97e45a47394/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/16286b92e2fd187d100ad97e45a47394/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/syedeasin/.gradle/caches/transforms-3/d14e0bab219894a890c0748ad6930487/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/syedeasin/.gradle/caches/transforms-3/d14e0bab219894a890c0748ad6930487/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/16286b92e2fd187d100ad97e45a47394/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:21:9-40
+activity#com.flashphoner.wcsexample.phone_min_video.PhoneMinVideoActivity
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:22:9-32:20
+	android:label
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:24:13-45
+	android:exported
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:26:13-36
+	android:configChanges
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:25:13-59
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:23:13-92
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.flashphoner.fpwcsapi:wcs-android-sdk-1.1.0.57:] /home/syedeasin/.gradle/caches/transforms-3/65e3658c1dc91ef068276a6c8929c483/transformed/jetified-wcs-android-sdk-1.1.0.57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/38dc562db4e01d397107d77b619bb730/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/38dc562db4e01d397107d77b619bb730/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/syedeasin/.gradle/caches/transforms-3/5983dbee309db77c468cf731f8de99ed/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/syedeasin/.gradle/caches/transforms-3/5983dbee309db77c468cf731f8de99ed/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/72b3ef631cd8c400636e580bc628f4a4/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/72b3ef631cd8c400636e580bc628f4a4/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/20de619f5bc7918f58cec667db409a71/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/20de619f5bc7918f58cec667db409a71/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/syedeasin/.gradle/caches/transforms-3/df6a4a883e472eb36bde8b7afaa5dae7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/syedeasin/.gradle/caches/transforms-3/df6a4a883e472eb36bde8b7afaa5dae7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/syedeasin/.gradle/caches/transforms-3/a5b0c708b4fff25c47abff6572d06545/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/syedeasin/.gradle/caches/transforms-3/a5b0c708b4fff25c47abff6572d06545/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/0a0a5c9e925e023474f8cdd20d1580ee/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/syedeasin/.gradle/caches/transforms-3/0a0a5c9e925e023474f8cdd20d1580ee/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/3c0c733d78755d6acb80a0b8f4595d10/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/3c0c733d78755d6acb80a0b8f4595d10/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/38eb26c9040e1c4e198ddffab8b4ccf7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/38eb26c9040e1c4e198ddffab8b4ccf7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/3bbd73e050926a9f0c56fb86a3a55c34/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/3bbd73e050926a9f0c56fb86a3a55c34/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/5bddc4a76e8f55b99a7679fb57f250e5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/5bddc4a76e8f55b99a7679fb57f250e5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/syedeasin/.gradle/caches/transforms-3/b127448119742c61a1f36ef14bba5008/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/syedeasin/.gradle/caches/transforms-3/b127448119742c61a1f36ef14bba5008/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/7f3d20d23b10d4001fb53c97eee883db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/7f3d20d23b10d4001fb53c97eee883db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/55d1f85bf739e6d4094b9bbd1c425bed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/55d1f85bf739e6d4094b9bbd1c425bed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/84db9b483d4b1bb81f3c602d2a6c528d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/84db9b483d4b1bb81f3c602d2a6c528d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/4188fb572eb088970e77ec0f0dcb066a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/4188fb572eb088970e77ec0f0dcb066a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/87b0e0b67f83482960ef657ff3ee26f7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/87b0e0b67f83482960ef657ff3ee26f7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/9be9420a2119134c5c7cc8959d8ae3c8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/9be9420a2119134c5c7cc8959d8ae3c8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/423f6a4889e3d11201f804fbcc390a1e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/423f6a4889e3d11201f804fbcc390a1e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/16286b92e2fd187d100ad97e45a47394/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/syedeasin/.gradle/caches/transforms-3/16286b92e2fd187d100ad97e45a47394/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f220559f3657700ef7e17a6d3eae413d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/f220559f3657700ef7e17a6d3eae413d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/85a5fcffb3ad4dd63efcafd558b83470/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/85a5fcffb3ad4dd63efcafd558b83470/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/76336503354a801bb214304e371a55c2/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/76336503354a801bb214304e371a55c2/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/4928b62cec54cd1c6257fa7d7d971ea6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/4928b62cec54cd1c6257fa7d7d971ea6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/6a543a949dd5c59723679de012bdbdbf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/6a543a949dd5c59723679de012bdbdbf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/syedeasin/.gradle/caches/transforms-3/d14e0bab219894a890c0748ad6930487/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/syedeasin/.gradle/caches/transforms-3/d14e0bab219894a890c0748ad6930487/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/137f6c50bfb26d4de7825e2ea38a8541/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/137f6c50bfb26d4de7825e2ea38a8541/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/syedeasin/.gradle/caches/transforms-3/36040533fbcb3d40ce55e86e96f59d69/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/syedeasin/.gradle/caches/transforms-3/36040533fbcb3d40ce55e86e96f59d69/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/3dc8cb490f4b471a3446e1d8f3e49fb7/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/syedeasin/.gradle/caches/transforms-3/3dc8cb490f4b471a3446e1d8f3e49fb7/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/44a857b39a07f29d3594f5ee2f6d158a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/44a857b39a07f29d3594f5ee2f6d158a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/syedeasin/.gradle/caches/transforms-3/1a83714c4d141df985550f2498369a54/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/syedeasin/.gradle/caches/transforms-3/1a83714c4d141df985550f2498369a54/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/e1ecb16427e8a16d40a1f282b12e164a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/e1ecb16427e8a16d40a1f282b12e164a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/d0e36ffc95f6423b2dbbf063bb224ec8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/d0e36ffc95f6423b2dbbf063bb224ec8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/94bf9267eb166226b49211f1ccbc2c45/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/94bf9267eb166226b49211f1ccbc2c45/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/9381cc0ea93639691adf26967da6156f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/9381cc0ea93639691adf26967da6156f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/b12443eb6197e65b122b9fb12888d33f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/syedeasin/.gradle/caches/transforms-3/b12443eb6197e65b122b9fb12888d33f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/phone-min-video/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/28f7a5d4282e0e6d0b95bd21c0686b8e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/syedeasin/.gradle/caches/transforms-3/1698df29dbe841587cb63d274b5b5764/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/syedeasin/.gradle/caches/transforms-3/1ea9c9ae8746941952d7237b4a7079da/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

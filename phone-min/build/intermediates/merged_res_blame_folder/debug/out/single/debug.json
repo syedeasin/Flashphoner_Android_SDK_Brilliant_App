@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.flashphoner.wcsexample.phone_min.phone-min-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.flashphoner.wcsexample.phone_min.phone-min-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashphoner.wcsexample.phone_min.phone-min-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.flashphoner.wcsexample.phone_min.phone-min-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashphoner.wcsexample.phone_min.phone-min-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.flashphoner.wcsexample.phone_min.phone-min-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashphoner.wcsexample.phone_min.phone-min-merged_res-25:/layout_activity_streaming_min.xml.flat",
+        "source": "com.flashphoner.wcsexample.phone_min.phone-min-main-27:/layout/activity_streaming_min.xml"
+    },
+    {
+        "merged": "com.flashphoner.wcsexample.phone_min.phone-min-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.flashphoner.wcsexample.phone_min.phone-min-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashphoner.wcsexample.phone_min.phone-min-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.flashphoner.wcsexample.phone_min.phone-min-main-27:/mipmap-mdpi/ic_launcher.png"
+    }
+]

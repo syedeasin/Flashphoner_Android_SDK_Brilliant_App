@@ -1,0 +1,10 @@
+#Mon Sep 11 13:40:34 BDT 2023
+base.0=/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/video-chat/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/video-chat/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/syedeasin/Downloads/Easin/flashphoner/wcs-android-sdk-samples/export/output/video-chat/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
